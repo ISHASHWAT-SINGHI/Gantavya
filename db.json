@@ -1,0 +1,21 @@
+{
+  "clubs": [
+    {
+      "clubId": "CLUB1768936846096",
+      "clubName": "Grobots",
+      "clubAdmin": "Ishan Mishra",
+      "password": "IHRM",
+      "members": [
+        {
+          "name": "Saarthak Pandey",
+          "role": "Member"
+        }
+      ],
+      "createdAt": "2026-01-20T19:20:46.096Z",
+      "updatedAt": "2026-01-20T19:20:46.096Z",
+      "_id": "1768936846096"
+    }
+  ],
+  "events": [],
+  "registrations": []
+}
